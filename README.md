@@ -21,3 +21,5 @@ This is a simple project to demonstrate how to use Git.
 ## License
 
 This project is licensed under the MIT License.
+
+iseng menambahkan sesuatu dan mau ini nanti nya di baca di git repo gwe.. 
